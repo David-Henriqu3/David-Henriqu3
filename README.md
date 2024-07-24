@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git&logoColor=0E76A8)
 ![Docker](https://img.shields.io/badge/docker-333333?style=for-the-badge&logo=docker&logoColor=0E76A8)
 ![Dependabot](https://img.shields.io/badge/IA-333333?style=for-the-badge&logo=dependabot&logoColor=0E76A8)
-![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai&logoColor=0E76A8)
+![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=for-the-badge&logo=openai&logoColor=0E76A8)
 
 ##
 # Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40" />
