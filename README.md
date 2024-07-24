@@ -37,7 +37,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=0E76A8)
 ![Git](https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git&logoColor=0E76A8)
 ![Docker](https://img.shields.io/badge/docker-333333?style=for-the-badge&logo=docker&logoColor=0E76A8)
-![Dependabot](https://img.shields.io/badge/IA-333333?style=for-the-badge&logo=dependabot&logoColor=0E76A8)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=for-the-badge&logo=openai&logoColor=0E76A8)
 
 ##
