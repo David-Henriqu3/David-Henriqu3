@@ -18,13 +18,13 @@
 
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
     <a href="https://github.com/David-Henriqu3/dio-lab-open-source" style="width: 200px;">
-        <img height="140" width="550" src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=dio-lab-open-source&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF" alt="streak stats" style="margin: 0;" />
+        <img height="140" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=dio-lab-open-source&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF" alt="streak stats" style="margin: 0;" />
     </a>
     <a href="https://github.com/David-Henriqu3/Bootcamp-DIO-Python" style="width: 200px;">
-        <img height="140" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=Bootcamp-DIO-Python&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF" alt="readme stats" style="margin: 0;" />
+        <img height="140" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=Bootcamp-DIO-Python&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF" alt="readme stats" style="margin: 0;" />
     </a>
     <a href="https://github.com/David-Henriqu3/py_ia_generativa_pipeline_etl" style="width: 200px;">
-        <img height="140" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=py_ia_generativa_pipeline_etl&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF" alt="pipeline etl" style="margin: 0;" />
+        <img height="140" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=py_ia_generativa_pipeline_etl&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF" alt="pipeline etl" style="margin: 0;" />
     </a>
 </div>
 
