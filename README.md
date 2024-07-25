@@ -18,7 +18,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=dio-lab-open-source&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF)](https://github.com/David-Henriqu3/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=Bootcamp-DIO-Python&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF)](https://github.com/David-Henriqu3/Bootcamp-DIO-Python)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=Bootcamp-DIO-Python&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF)](https://github.com/David-Henriqu3/py_ia_generativa_pipeline_etl)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=py_ia_generativa_pipeline_etln&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF)](https://github.com/David-Henriqu3/py_ia_generativa_pipeline_etl)
     
 # Habilidades <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="40" height="40" />
 </div>
