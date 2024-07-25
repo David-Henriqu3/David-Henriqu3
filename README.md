@@ -16,9 +16,18 @@
 
 # Projetos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="30" height="30" />
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=dio-lab-open-source&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF)](https://github.com/David-Henriqu3/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=Bootcamp-DIO-Python&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF)](https://github.com/David-Henriqu3/Bootcamp-DIO-Python)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=py_ia_generativa_pipeline_etln&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF)](https://github.com/David-Henriqu3/py_ia_generativa_pipeline_etl)
+<div style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+    <a href="https://github.com/David-Henriqu3/dio-lab-open-source" style="width: 200px;">
+        <img height="140" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=dio-lab-open-source&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF" alt="streak stats" style="margin: 0;" />
+    </a>
+    <a href="https://github.com/David-Henriqu3/Bootcamp-DIO-Python" style="width: 200px;">
+        <img height="140" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=Bootcamp-DIO-Python&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF" alt="readme stats" style="margin: 0;" />
+    </a>
+    <a href="https://github.com/David-Henriqu3/py_ia_generativa_pipeline_etl" style="width: 200px;">
+        <img height="140" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=py_ia_generativa_pipeline_etl&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF" alt="pipeline etl" style="margin: 0;" />
+    </a>
+</div>
+
     
 # Habilidades <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="40" height="40" />
 </div>
