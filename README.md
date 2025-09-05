@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> Olá, meu nome é David Henrique</h1>
-<h2 align="center"> &nbsp; Sou estudante de programação back-end &nbsp; </h2>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> Hello World </h1>
+<h2 align="center"> &nbsp; Estudante de programação back-end &nbsp; </h2>
 
 <div align="center">
     
@@ -47,6 +47,7 @@ style="width: 200px;">
 ## Em desenvolvimento 💻
 
 ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=0E76A8)
 ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=0E76A8)
 ![Git](https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git&logoColor=0E76A8)
 ![Docker](https://img.shields.io/badge/docker-333333?style=for-the-badge&logo=docker&logoColor=0E76A8)
