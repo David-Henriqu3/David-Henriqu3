@@ -47,7 +47,6 @@ style="width: 200px;">
 ## Em desenvolvimento 💻
 
 ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=0E76A8)
 ![Node.Js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=0E76A8)
 ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=0E76A8)
 ![Git](https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git&logoColor=0E76A8)
