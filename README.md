@@ -48,10 +48,10 @@ style="width: 200px;">
 
 ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=0E76A8)
+![Node.Js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=0E76A8)
 ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=0E76A8)
 ![Git](https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git&logoColor=0E76A8)
-![Docker](https://img.shields.io/badge/docker-333333?style=for-the-badge&logo=docker&logoColor=0E76A8)
-![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=for-the-badge&logo=openai&logoColor=0E76A8)
+![OpenAI](https://img.shields.io/badge/-AI-333333?style=for-the-badge&logo=openai&logoColor=0E76A8)
 
 ##
 # Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40" />
