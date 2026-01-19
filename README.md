@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> Hello World </h1>
-<h2 align="center"> &nbsp; Estudante de programação back-end &nbsp; </h2>
+<h2 align="center"> &nbsp; Dev Full Stack em formação &nbsp; </h2>
 
 <div align="center">
     
