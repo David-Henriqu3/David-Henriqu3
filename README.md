@@ -59,13 +59,10 @@
 ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=0E76A8)
 ![Delphi](https://img.shields.io/badge/Delphi-333333?style=for-the-badge&logo=delphi&logoColor=0E76A8)
-![Selenium](https://img.shields.io/badge/Selenium-333333?style=for-the-badge&logo=selenium&logoColor=0E76A8)
 ![REST API](https://img.shields.io/badge/REST%20API-333333?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=0E76A8)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=0E76A8)
 ![Windows](https://img.shields.io/badge/Windows-333333?style=for-the-badge&logo=windows&logoColor=0E76A8)
-![Git](https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git&logoColor=0E76A8)
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=0E76A8)
 
 
 </div>
@@ -79,8 +76,11 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=0E76A8)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=0E76A8)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-333333?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-333333?style=for-the-badge&logo=selenium&logoColor=0E76A8)
 ![ETL](https://img.shields.io/badge/ETL-333333?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/AI-333333?style=for-the-badge&logo=openai&logoColor=0E76A8)
+![Git](https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git&logoColor=0E76A8)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=0E76A8)
 
 
 </div>
