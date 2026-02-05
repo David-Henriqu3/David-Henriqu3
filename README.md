@@ -75,12 +75,12 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=0E76A8)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=0E76A8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=0E76A8)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-333333?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-333333?style=for-the-badge&logo=selenium&logoColor=0E76A8)
-![ETL](https://img.shields.io/badge/ETL-333333?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/AI-333333?style=for-the-badge&logo=openai&logoColor=0E76A8)
 ![Git](https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git&logoColor=0E76A8)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=0E76A8)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-333333?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-333333?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/AI-333333?style=for-the-badge&logo=openai&logoColor=0E76A8)
 
 
 </div>
