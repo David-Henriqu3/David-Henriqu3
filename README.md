@@ -19,7 +19,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" width="30" height="30" /> Projetos
 
-
 <div align="center">
 
 <a href="https://github.com/David-Henriqu3/selenium-github-scraper-py">
@@ -75,6 +74,7 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=0E76A8)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=0E76A8)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=0E76A8)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-333333?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-333333?style=for-the-badge&logo=selenium&logoColor=0E76A8)
 ![ETL](https://img.shields.io/badge/ETL-333333?style=for-the-badge)
