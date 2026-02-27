@@ -17,39 +17,6 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" width="30" height="30" /> Projetos
-
-<div align="center">
-
-<a href="https://github.com/David-Henriqu3/selenium-github-scraper-py">
-  <img height="140" width="400" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=selenium-github-scraper-py&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF"/>
-</a>
-
-<a href="https://github.com/David-Henriqu3/dio-lab-open-source">
-  <img height="140" width="400" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=dio-lab-open-source&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF"/>
-</a>
-
-<a href="https://github.com/David-Henriqu3/Bootcamp-DIO-Python">
-  <img height="140" width="400" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=Bootcamp-DIO-Python&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF"/>
-</a>
-
-<a href="https://github.com/David-Henriqu3/py_ia_generativa_pipeline_etl">
-  <img height="140" width="400" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=py_ia_generativa_pipeline_etl&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF"/>
-</a>
-
-<a href="https://github.com/David-Henriqu3/desafio-power-bi">
-  <img height="140" width="400" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=desafio-power-bi&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF"/>
-</a>
-
-</div>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="40" height="40" /> Habilidades
 
 
@@ -83,16 +50,6 @@
 ![OpenAI](https://img.shields.io/badge/AI-333333?style=for-the-badge&logo=openai&logoColor=0E76A8)
 
 
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40" /> GitHub Stats
-
-
-<div align="center">
-  <img height="150em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Henriqu3&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ---
