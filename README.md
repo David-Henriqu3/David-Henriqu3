@@ -41,6 +41,7 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=0E76A8)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=0E76A8)
+![Java](https://img.shields.io/badge/java-333333.svg?style=for-the-badge&logo=openjdk&logoColor=0E76A8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=0E76A8)
 ![Selenium](https://img.shields.io/badge/Selenium-333333?style=for-the-badge&logo=selenium&logoColor=0E76A8)
 ![Git](https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git&logoColor=0E76A8)
